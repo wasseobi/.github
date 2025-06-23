@@ -23,8 +23,8 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=flat&logo=LangGraph&logoColor=white)
 
 **Backend**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=flat&logo=SQLAlchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=flat&logo=Pydantic&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9.svg?style=flat&logo=uv&logoColor=white)
@@ -32,9 +32,9 @@
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412.svg?style=flat&logo=OpenSSL&logoColor=white)
 
 **Frontend**  
-![Dart](https://img.shields.io/badge/dart-3670A0?style=flat&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3670A0?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 **DevOps**  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
