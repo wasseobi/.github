@@ -1,5 +1,8 @@
 # 서비, 인공지능 비서
 
+[![Backend Repository](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-backend)](https://github.com/wasseobi/seobi-backend)
+[![Frontend Repository](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-frontend)](https://github.com/wasseobi/seobi-frontend)
+
 ### 지원하는 플랫폼
 - ✅ Android
 - 🛠️ Windows
