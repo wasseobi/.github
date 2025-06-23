@@ -28,6 +28,8 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=flat&logo=SQLAlchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=flat&logo=Pydantic&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9.svg?style=flat&logo=uv&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=Swagger&logoColor=black)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412.svg?style=flat&logo=OpenSSL&logoColor=white)
 
 **Frontend**  
 ![Dart](https://img.shields.io/badge/dart-3670A0?style=flat&logo=dart&logoColor=white)
@@ -37,5 +39,3 @@
 **DevOps**  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![Github-Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=GitHub-Actions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=Swagger&logoColor=black)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412.svg?style=flat&logo=OpenSSL&logoColor=white)
